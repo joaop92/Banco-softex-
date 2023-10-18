@@ -1,1 +1,2 @@
 #banco-softex-
+Crie um codigo com objeto chamado banco ele devera ter propiedade que incluem  conta, saldo , tipo de conta,  e  agencia e os seus metodos devem ser buscar saldo, deposito, saque, e numero de conta  observaçoes: buscar saldo deve retornar valor atual do saldo, para o saldo.  Você deve passar um parametro e adicionalo no saldo final do objeto, o numero da conta deve retornar o numero da conta
